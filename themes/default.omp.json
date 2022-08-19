@@ -17,16 +17,17 @@
           "type": "session"
         },
         {
-          "background": "p:green",
-          "foreground": "p:white",
-          "powerline_symbol": "\ue0b0",
-          "properties": {
-            "home_icon": "~",
-            "style": "full"
-          },
+          "type": "path",
           "style": "powerline",
-          "template": " \uf74a {{ .Path }} ",
-          "type": "path"
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#ffffff",
+          "background": "#61AFEF",
+          "properties": {
+            "style": "folder",
+            "mapped_locations": {
+              "C:\\temp": "\ue799"
+            }
+          }
         },
         {
           "background": "p:green",
