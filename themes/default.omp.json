@@ -17,7 +17,7 @@
           "type": "session"
         },
         {
-          "background": "p:orange",
+          "background": "p:green",
           "foreground": "p:white",
           "powerline_symbol": "\ue0b0",
           "properties": {
