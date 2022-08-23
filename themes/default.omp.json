@@ -17,11 +17,11 @@
           "type": "session"
         },
         {
-          "type": "path",
+          "type": "full",
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
           "foreground": "#ffffff",
-          "background": "#61AFEF",
+          "background": ":red",
           "properties": {
             "style": "folder",
             "mapped_locations": {
