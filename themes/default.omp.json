@@ -23,7 +23,7 @@
           "foreground": "#ffffff",
           "background": "p:orange",
           "properties": {
-            "style": "full",
+            "style": "agnoster_full",
             "mapped_locations": {
               "C:\\temp": "\ue799"
             }
