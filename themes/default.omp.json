@@ -23,7 +23,7 @@
           "foreground": "#ffffff",
           "background": ":red",
           "properties": {
-            "style": "folder",
+            "style": "full",
             "mapped_locations": {
               "C:\\temp": "\ue799"
             }
