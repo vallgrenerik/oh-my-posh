@@ -21,7 +21,7 @@
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
           "foreground": "#ffffff",
-          "background": ":red",
+          "background": "p:orange",
           "properties": {
             "style": "full",
             "mapped_locations": {
