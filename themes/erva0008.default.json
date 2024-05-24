@@ -20,7 +20,7 @@
           "type": "path",
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
-          "foreground": "#ffffff",
+          "foreground": "P:red",
           "background": "p:orange",
 
         },
