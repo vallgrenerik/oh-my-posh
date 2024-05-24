@@ -22,9 +22,7 @@
           "powerline_symbol": "\uE0B0",
           "foreground": "#ffffff",
           "background": "p:orange",
-          "properties": {
-            "style": "agnoster_full",
-          }
+
         },
         {
           "background": "p:green",
